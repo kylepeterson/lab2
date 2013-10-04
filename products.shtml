@@ -1,0 +1,5 @@
+<!--#include virtual="inc/header.html" -->
+			<div>
+				<a href="mailto:sales@widgetsrus.com" class="email">Send us email</a> or call us to order any of our products
+			</div>
+<!--#include virtual="inc/footer.html" -->

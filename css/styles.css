@@ -81,11 +81,17 @@ dd {
 	margin-bottom: 30px;
 }
 
-footer a {
+.email {
 	text-decoration: none;
 }
 
-footer a:hover{
+.email:hover{
 	text-decoration: underline;
 }
 
+div {
+	border-radius: 5px;
+	background-color: #FBEAE3;
+	width: 75%;
+	margin: 0 auto;
+}
