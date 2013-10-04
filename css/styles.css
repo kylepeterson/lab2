@@ -93,7 +93,7 @@ img {
 
 .price {
 	text-decoration: italic;
-	margin-bottom: 30px;
+	margin-bottom: 32px;
 }
 
 .email {
@@ -112,6 +112,7 @@ img {
 	text-align: center;
 	padding: 10px;
 	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .content {
