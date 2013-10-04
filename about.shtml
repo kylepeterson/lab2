@@ -51,17 +51,5 @@
 					consequat.
 				</dd>
 		</dl>
-		<footer>
-			<p>
-				We ship for free in the continental United States!
-				Call or email us to place an order today.
-			</p>
-			<p>
-				&copy; 2013 Widgets-R-Us
-			</p>
-			<p>
-				<a href="https://github.com/kylepeterson/lab2">Git Repository</a>
-			</p>
-		</footer>
-	</body>
-</html>
+<!--#include virtual="inc/footer.html" -->
+
