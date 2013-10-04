@@ -91,7 +91,7 @@ img {
 }
 
 .price {
-	text-decoration: italic;
+	font-style: italic;
 	margin-bottom: 32px;
 }
 
