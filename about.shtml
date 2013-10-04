@@ -17,7 +17,7 @@
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</p>
 		<h2>Our Team</h2>
-		<dl>
+		<dl class="team">
 			<img src="img/person.jpg" alt="person outline" class="float-left">
 			<dt>Amy Chen, President</dt>
 				<dd>

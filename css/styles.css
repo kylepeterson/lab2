@@ -17,6 +17,10 @@ body {
 	float: left;
 }
 
+.widgets img {
+	float: left;
+}
+
 .float-right {
 	float: right;
 }
@@ -73,13 +77,22 @@ img {
 	padding: 10px;
 }
 
-dt {
+.team dt {
 	color: #116189;
 	font-weight: bold;
 }
 
 dd {
 	margin-bottom: 30px;
+}
+
+.widgets dt {
+	font-weight: bold;
+	font-size: 120%;
+}
+
+dd+dd {
+	text-decoration: italic;
 }
 
 .email {
