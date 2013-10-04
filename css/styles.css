@@ -82,7 +82,7 @@ img {
 	font-weight: bold;
 }
 
-dd {
+.team dd {
 	margin-bottom: 30px;
 }
 
@@ -91,8 +91,9 @@ dd {
 	font-size: 120%;
 }
 
-dd+dd {
+.price {
 	text-decoration: italic;
+	margin-bottom: 30px;
 }
 
 .email {
