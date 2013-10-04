@@ -27,6 +27,12 @@ h1 {
 	color: #116189;
 }
 
+h2 {
+	color: #116189;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 120%;
+}
 
 .motto {
 	font-style: italic;
@@ -54,9 +60,24 @@ a:hover {
 footer {
 	clear: right;
 	border-top: thin solid gray;
+	margin-top: 50px;
 }
 
 p {
 	padding: 10px;
-	margin: ;
 }
+
+img {
+	vertical-align: text-top;
+	margin-right: 10px;
+}
+
+dt {
+	color: #116189;
+	font-weight: bold;
+}
+
+dd {
+	margin-bottom: 30px;
+}
+
