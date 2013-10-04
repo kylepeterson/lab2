@@ -90,7 +90,7 @@ dd {
 	text-decoration: underline;
 }
 
-div {
+.products-bar {
 	border-radius: 5px;
 	background-color: #FBEAE3;
 	width: 75%;
