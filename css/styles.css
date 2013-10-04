@@ -5,3 +5,57 @@
 /* reset CSS file to reset browser default styling to a consistent starting point */
 @import url(reset.css);
 
+body {
+    background-image: url(../img/texture-light.png);
+    background-repeat: repeat;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    padding:10px;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+h1 {
+	font-family: "Boogaloo", sans-serif;
+	font-size: 36px;
+	color: #116189;
+}
+
+
+.motto {
+	font-style: italic;
+	font-size: 120%;
+}
+
+nav {
+	background-color: #D74710;
+	border-radius: 5px;
+	clear: left;
+}
+
+nav a {
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 10px;
+}
+
+a:hover {
+	background-color: #FF9D45;
+}
+
+footer {
+	clear: right;
+	border-top: thin solid gray;
+}
+
+p {
+	padding: 10px;
+}
